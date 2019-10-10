@@ -1,1 +1,2 @@
-# Virus
+$cd virus
+$sh virus.sh
